@@ -1,0 +1,11 @@
+{
+    "_comentario": "Renomeie este arquivo para oracle_config.json e preencha com seus dados reais",
+    "usuario": "farmtech",
+    "senha": "SUA_SENHA_AQUI",
+    "dsn": "localhost:1521/XEPDB1",
+    "_exemplos_dsn": {
+        "oracle_xe_local": "localhost:1521/XEPDB1",
+        "oracle_cloud_atp": "SEU_WALLET/SEU_SERVICE_NAME",
+        "oracle_21c": "localhost:1521/ORCLPDB1"
+    }
+}

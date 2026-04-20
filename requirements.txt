@@ -1,0 +1,15 @@
+# FarmTech Solutions — Fase 3
+# Dependências Python
+#
+# Instalação:
+#   pip install -r requirements.txt
+#
+# Para Oracle (opcional — necessário apenas se usar banco de dados):
+#   pip install oracledb
+#
+# O oracledb roda em "Thin Mode" (sem Oracle Client instalado),
+# exceto para funcionalidades avançadas como wallets OCI.
+
+# Biblioteca oficial Oracle para Python
+# Substitui cx_Oracle — compatível com Oracle 12.1+
+oracledb>=2.0.0

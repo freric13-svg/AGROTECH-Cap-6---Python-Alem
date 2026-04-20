@@ -1,0 +1,74 @@
+{
+    "meta": {
+        "sistema": "FarmTech Solutions — Fase 3",
+        "versao": "3.0.0",
+        "exportado_em": "2025-09-01T10:30:00",
+        "total_lotes": 4
+    },
+    "lotes": [
+        {
+            "id_lote": 1,
+            "fazenda": "Fazenda Santa Cruz",
+            "estado": "SP",
+            "municipio": "Ribeirão Preto",
+            "data_colheita": "2025-06-15",
+            "tipo_colheita": "Mecanizada",
+            "area_hectares": 450.0,
+            "producao_bruta_t": 45000.0,
+            "percentual_perda": 11.2,
+            "toneladas_perdidas": 5040.0,
+            "producao_liquida_t": 39960.0,
+            "valor_perdido_R$": 604800.0,
+            "status_perda": "ATENÇÃO",
+            "registro_em": "2025-09-01 10:00:00"
+        },
+        {
+            "id_lote": 2,
+            "fazenda": "Fazenda Boa Vista",
+            "estado": "SP",
+            "municipio": "Piracicaba",
+            "data_colheita": "2025-07-20",
+            "tipo_colheita": "Manual",
+            "area_hectares": 80.0,
+            "producao_bruta_t": 7200.0,
+            "percentual_perda": 3.8,
+            "toneladas_perdidas": 273.6,
+            "producao_liquida_t": 6926.4,
+            "valor_perdido_R$": 32832.0,
+            "status_perda": "BOM",
+            "registro_em": "2025-09-01 10:05:00"
+        },
+        {
+            "id_lote": 3,
+            "fazenda": "Fazenda Horizonte",
+            "estado": "GO",
+            "municipio": "Rio Verde",
+            "data_colheita": "2025-08-05",
+            "tipo_colheita": "Mecanizada",
+            "area_hectares": 600.0,
+            "producao_bruta_t": 62000.0,
+            "percentual_perda": 13.5,
+            "toneladas_perdidas": 8370.0,
+            "producao_liquida_t": 53630.0,
+            "valor_perdido_R$": 1004400.0,
+            "status_perda": "CRÍTICO",
+            "registro_em": "2025-09-01 10:10:00"
+        },
+        {
+            "id_lote": 4,
+            "fazenda": "Fazenda Primavera",
+            "estado": "MG",
+            "municipio": "Uberaba",
+            "data_colheita": "2025-09-10",
+            "tipo_colheita": "Manual",
+            "area_hectares": 45.0,
+            "producao_bruta_t": 4500.0,
+            "percentual_perda": 2.9,
+            "toneladas_perdidas": 130.5,
+            "producao_liquida_t": 4369.5,
+            "valor_perdido_R$": 15660.0,
+            "status_perda": "EXCELENTE",
+            "registro_em": "2025-09-01 10:15:00"
+        }
+    ]
+}
