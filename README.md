@@ -3,7 +3,7 @@
 
 ---
 
-Oi! Vou te contar sobre o projeto que desenvolvi aqui na faculdade. Pode parecer um nome difícil, mas prometo que a ideia por trás disso é bem simples — e bem legal.
+Vou te contar sobre o projeto que desenvolvi aqui na faculdade. Pode parecer um nome difícil, mas prometo que a ideia por trás disso é bem simples — e bem legal.
 
 ---
 
