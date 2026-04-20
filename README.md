@@ -23,7 +23,7 @@ Foi isso que eu construí.
 
 Esse projeto é a continuação de dois trabalhos anteriores que já tinha feito aqui na faculdade. No primeiro, criei um sistema simples de controle agrícola para Shitake e Horticultura. No segundo, montei um sistema de irrigação inteligente com ESP32. Agora, na Fase 3, o desafio era evoluir tudo isso usando Python de verdade — com banco de dados Oracle, arquivos JSON, estruturas de dados e muito mais.
 
-**Disciplina:** Computational Thinking with Python  
+**Atividade:** Cap 6 - Python e além
 **Tutor(a):** Sabrina Otoni  
 **Coordenador(a):** André Godoi  
 **Desenvolvido por:** Fred Eric Nascimento Santos
